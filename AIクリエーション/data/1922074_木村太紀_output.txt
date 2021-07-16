@@ -1,0 +1,51 @@
+# パラメータ k = 10
+movie_title	year	rating	IMDB_votes
+1492: conquest of paradise	1992	6.2	10421.0
+15 minutes	2001	6.1	25854.0
+2001: a space odyssey	1968	8.4	163227.0
+48 hrs.	1982	6.9	22289.0
+the fifth element	1997	7.5	133756.0
+8mm	1999	6.3	48212.0
+a nightmare on elm street 4: the dream master	1988	5.2	13590.0
+a nightmare on elm street: the dream child	1989	4.7	11092.0
+the atomic submarine	1959	4.9	513.0
+affliction	1997	6.9	7252.0
+air force one	1997	6.3	61978.0
+airplane ii: the sequel	1982	5.8	15210.0
+airplane!	1980	7.8	57692.0
+alien nation	1988	6.1	5590.0
+aliens	1986	8.5	173518.0
+amadeus	1984	8.4	99138.0
+an american werewolf in london	1981	7.5	24443.0
+american madness	1932	7.4	702.0
+american outlaws	2001	5.7	7425.0
+american psycho	2000	7.4	101357.0
+antitrust	2001	6.0	16453.0
+austin powers: international man of mystery	1997	7.1	75240.0
+the avengers	1998	3.4	21519.0
+bachelor party	1984	5.9	14050.0
+backdraft	1991	6.6	28541.0
+bad lieutenant	1992	6.9	13908.0
+bamboozled	2000	6.3	5995.0
+barry lyndon	1975	8.1	40622.0
+basic	2003	6.3	26295.0
+big fish	2003	8.1	144264.0
+birthday girl	2001	6.0	13497.0
+black snake moan	2006	7.1	28509.0
+black rain	1989	6.4	16249.0
+blade runner	1982	8.3	188735.0
+blast from the past	1999	6.4	23489.0
+blue velvet	1986	7.8	54576.0
+the boondock saints	1999	7.8	87895.0
+bottle rocket	1996	7.2	22303.0
+the bourne supremacy	2004	7.6	106349.0
+braveheart	1995	8.4	245652.0
+the butterfly effect	2004	7.8	104917.0
+casablanca	1942	8.8	170874.0
+cast away	2000	7.5	104477.0
+the cider house rules	1999	7.5	38836.0
+confidence	2003	6.8	17235.0
+croupier	1998	7.2	9060.0
+dark star	1974	6.5	8303.0
+dark angel	1990	5.3	3452.0
+detroit rock city	1999	6.5	14666.0

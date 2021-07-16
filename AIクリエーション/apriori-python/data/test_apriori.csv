@@ -1,0 +1,12 @@
+"Suzuka Circuit","Suzuka","Japan"
+"Adelaide Street Circuit","Adelaide"
+"Albert Park Grand Prix Circuit","Melbourne"
+"Circuit de Monaco","Monte-Carlo"
+"Circuit Gilles Villeneuve","Montreal"
+"Okayama International Circuit","Okayama","Japan"
+"Circuit de Nevers Magny-Cours","Magny Cours"
+"Circuit de Spa-Francorchamps","Spa"
+"Fuji Speedway","Oyama","Japan"
+"Circuito de Jerez","Jerez de la Frontera"
+
+# min_support = 0.1, min_lift=0.5, min_confidence = 0.4

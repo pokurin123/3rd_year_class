@@ -1,0 +1,21 @@
+id,movie_title,month_playing,theater_id
+1,2001: a space odyssey,1,1
+2,aliens,2,2
+3,casablanca,3,3
+4,blade runner,4,4
+5,amadeus,5,5
+6,8mm,6,6
+7,barry lyndon,7,1
+8,affliction,8,2
+9,basic,9,3
+10,confidence,10,4
+11,dark star,11,5
+12,american psycho,12,6
+13,austin powers,1,1
+14,the avengers,2,2
+15,backdraft,3,3
+16,aliens,2,4
+17,aliens,2,5
+18,blade runner,1,6
+19,amadeus,2,1
+20,8mm,2,2
